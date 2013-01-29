@@ -1,0 +1,35 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Melchior - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\TEMP\RSP13D.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /FR"Debug/" /Fp"Debug/Melchior.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\VC\Melchior\Scheduler.cpp"
+]
+Creating command line "cl.exe @C:\TEMP\RSP13D.tmp" 
+<h3>Output Window</h3>
+Compiling...
+Scheduler.cpp
+
+NOTE: WINVER has been defined as 0x0500 or greater which enables
+Windows 2000 features.
+
+Caution: When building applications with WINVER set to 0x0500
+or greater, the resulting binary may not run as expected
+on earlier platforms, such Windows NT 4.0 or Windows 95 & Windows 98
+
+See the Platform SDK release notes for more information.
+
+
+
+
+<h3>Results</h3>
+Scheduler.obj - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
